@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperderify",
+        "uuid": 5570766,
+        "checksum": "ildsj"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
